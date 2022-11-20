@@ -1,0 +1,4 @@
+This is an intermediary server to aggregate and display content from Mastodon
+The primary purpose is to make Mastodon as easy to use as possible 
+
+POST support will be added later - for now, it will be a read-only client (with like support)
